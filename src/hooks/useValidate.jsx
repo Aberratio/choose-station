@@ -84,7 +84,7 @@ const useValidate = (carData, csvArray, setPreparedCsvArray) => {
     filteredStations = filteredStations.map((station) => {
       return {
         ...station,
-        neededFuelCosts: calculateCost(station).toFixed(2),
+        neededFuelCosts: calculateCost(station, carData.fuelType).toFixed(2),
       };
     });
 
