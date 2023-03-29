@@ -1,0 +1,21 @@
+﻿id;address;company;distanceFromUE;distanceToUE;allDistance;ONPrice;PB95Price;PB98Price;ONPremiumPrice;PBPremiumPrice;LPGPrice
+1;Stacja Paliw ORLEN, Ślężna 129A, 53-301 Wrocław;ORLEN;0,9;1,8;2,7;6;6;6;6;6;6
+2;Stacja Paliw ORLEN, Ślężna 88A, 53-301 Wrocław;ORLEN;1,1;1,6;2,7;6;6;6;6;6;6
+3;Shell, aleja Wiśniowa 87, 53-126 Wrocław;Shell;1,1;2,3;3,4;6;6;6;6;6;6
+4;Shell, Ślężna 144, 53-110 Wrocław;Shell;4,6;2;6,6;6;6;6;6;6;6
+5;AMIC Energy, aleja Armii Krajowej 1, 50-541 Wrocław;AMIC;1,5;3;4,5;6;6;6;6;6;6
+6;Shell, Kamienna 145, 50-545 Wrocław;Shell;1,7;2,6;4,3;6;6;6;6;6;6
+7;Circle K Express, Hubska 102-118, 50-505 Wrocław;Circle;1,9;2,4;4,3;6;6;6;6;6;6
+8;AMIC Energy, aleja Armii Krajowej 50, 50-541 Wrocław;AMIC;2;2,8;4,8;6;6;6;6;6;6
+9;OMEGA Wrocław, Bardzka 6, 50-001 Gaj;OMEGA;2,6;2,5;5,1;6;6;6;6;6;6
+10;bp, Bardzka 26, 50-517 Wrocław;bp;2,6;2,9;5,5;6;6;6;6;6;6
+11;Pieprzyk, aleja Armii Krajowej 49, 50-541 Wrocław;Pieprzyk;2,9;3,4;6,3;6;6;6;6;6;6
+12;Circle K, Sucha 15C, 50-086 Wrocław;Circle;2,2;1,4;3,6;6;6;6;6;6;6
+13;Stacja Paliw ORLEN, Tęczowa 5, 53-601 Wrocław;ORLEN;2,8;2,9;5,7;6;6;6;6;6;6
+14;Stacja Paliw ORLEN, Grabiszyńska 187, 53-234 Wrocław;ORLEN;3,3;3,8;7,1;6;6;6;6;6;6
+15;bp, Grabiszyńska 266, 53-234 Wrocław;bp;3,8;4;7,8;6;6;6;6;6;6
+16;Stacja Paliw ORLEN, Krakowska 11, 50-424 Wrocław;ORLEN;3,3;3,1;6,4;6;6;6;6;6;6
+17;AVIA, Gazowa 3, 50-513 Wrocław;AVIVA;4;4,4;8,4;6;6;6;6;6;6
+18;Transbud, aleja Armii Krajowej 53, 50-541 Wrocław;Transbud;3,2;3,7;6,9;6;6;6;6;6;6
+19;Stacja Paliw ORLEN, Tęczowa 5, 53-601 Wrocław;ORLEN;2,8;2,9;5,7;6;6;6;6;6;6
+20;Stacja Paliw ORLEN, Muchoborska 9, 54-424 Wrocław;ORLEN;6,1;6,1;12,2;6;6;6;6;6;6
