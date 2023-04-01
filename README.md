@@ -1,5 +1,6 @@
 # Fuel Refueling Optimization Application
-To help drivers optimize fueling, we have created an application that implements the above algorithm. The application will take input from drivers and return the optimal fuel station for them to fuel up.
+
+This application is designed to optimize fueling for drivers based on their preferences and fuel type requirements. 
 
 ## Introduction
 The fuel market in Poland is subject to continuous changes. In recent years, one of the main factors affecting fuel prices in Poland has been changes in the tax system, especially the increase in excise duty on fuels that took place in 2019, as well as the ongoing armed conflict on our eastern border since February 2022. In addition, the situation in the international market and the unstable geopolitical situation, especially in the Middle East, affects fuel prices in the domestic market, resulting in a lack of stabilization. Another price-forming factor that has occurred recently is high inflation in Poland, which is only slightly balanced by market concerns about the occurrence of a recession.
