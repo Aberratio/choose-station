@@ -1,6 +1,6 @@
 describe("Choose Station Page", () => {
   beforeEach(() => {
-    cy.visit("https://aberratio.github.io/choose-station/");
+    cy.visit("http://localhost:3000/choose-station");
   });
 
   it("should display a list of stations", () => {

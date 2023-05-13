@@ -14,10 +14,13 @@
     "styled-components": "^5.3.9"
   },
   "scripts": {
+    "before-first-run": "npm install",
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "run-cypress": "npx cypress run --browser chrome",
+    "open-cypress": "npx cypress open --browser chrome"
   },
   "eslintConfig": {
     "extends": [
